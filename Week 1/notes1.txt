@@ -1,0 +1,26 @@
+Deduction can be known as if we had some data and we make resume based on resources, 
+past experience, datas that already exist
+Induction is an activity that exploid direct action, tidak hanya percaya pd catatan2 tp
+melakukan tindakan langsung krn penyebab yg berbeda2
+Scientific membuat hipotesis, praduga sementara yg msh hrs dibuktikan kebenarannya
+
+before we make hypothesis we need to make some questions. 
+advantages why do we need statistc? to analyze, to know the data,
+the income ratio on indonesia
+
+statistical: An assumpation that is produced by unknown numerical quantity, 
+such: mean, median, or mode (Sumarjaya, 2016)
+statistics: A field of knowledge which is related to information collecting, organizing, analysis, 
+interpretation, and presentation which can be represented by numeric form. (Sumarjaya, 2016)
+Statistics are procedures that combine, organize, and summarize data to make inferences (Burnham, 2015)
+
+discreate: nilai pasti
+continues: rentang
+
+how to calculate calculateve variable?
+encoding & scale
+
+how to get a dara
+- primary data: collected by researchers, sometimes the validity is questionable
+- secondary data: collected by another researcher, and has been validated by another researcher
+
